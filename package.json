@@ -8,8 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vueuse/core": "^7.6.2",
-    "vue": "^3.2.35"
+    "@vueuse/core": "^7.7.1",
+    "vue": "^3.2.25"
   },
   "devDependencies": {
     "@vicons/ionicons5": "^0.12.0",
